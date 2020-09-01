@@ -3,4 +3,4 @@ title: Aukkawut Ammartayakun
 description: My webpage
 markdown: kramdown
 kramdown:
-    math_engine: katex
+    math_engine: mathjax
