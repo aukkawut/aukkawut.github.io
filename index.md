@@ -7,5 +7,5 @@ As you can see, there is nothing here but I'll add something later.
 import __hello__
 ```
 
-$$Q = \int_{x = 0}^{x = \infty} e^{-\frac{(xt-\mu)^2}{2\sigma} dx$$
+$$Q = \int_{x = 0}^{x = \infty} e^{-\frac{(xt-\mu)^2}{2\sigma}} dx$$
 
