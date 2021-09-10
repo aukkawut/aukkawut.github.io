@@ -2,7 +2,7 @@
 
 # Quick Link:
 
-- [Notes for basic machine learning](aukkawut.github.io/collections/notes/ml1)
+- [Notes for basic machine learning](/collections/notes/ml1)
 
 # Hello World!
 
