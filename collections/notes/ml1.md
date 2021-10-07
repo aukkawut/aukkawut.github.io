@@ -1,6 +1,6 @@
 # Machine Learning note
 
-This is underconstruction. Prerequisite : Probability, Linear Algebra, Calculus, Statitics
+This is under construction. Please comeback later. Prerequisite : Probability, Linear Algebra, Calculus, Statistics
 
 ## Objective of machine learning
 
