@@ -41,7 +41,7 @@ Most of the presentation I made can be found here:
 
 * SCiUS @ Silpakorn University
  * SC 30253 Biotechnology: Plant nutrients for tissue culture [link](/collections/presentation/biotech_essential_nutrients.pdf)
- * SC 30253 Biotechnology: Microorganisms and the treatment or cancer [link](/collections/presentation/medical_biotech.pdf)
+ * SC 30253 Biotechnology: Microorganisms and the treatment or cancer [link](/collections/presentation/Medical_Biotech%20(2).pdf)
  * Physics 5: Nuclear Power Plants [link](/collections/presentation/L14NuclearPP_lq.pdf)
 
 # Contact
