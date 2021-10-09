@@ -1,9 +1,5 @@
 ## Welcome to my website!
 
-# Quick Link:
-
-- [Notes for basic machine learning](/collections/notes/ml1)
-
 # About me
 
 My name is Aukkawut Ammartayakun. An 2nd year (sophomore) undergraduate student at Worcester Polytechnic Institute. I study Data Science and love to learn new things about DS. I am working on NLP and statistical learning.
