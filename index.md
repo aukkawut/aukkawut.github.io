@@ -14,7 +14,7 @@ Currently none.
 
 # Classworks
 
-I took the following classes (course description can be found here: [graduate], [undergraduate])
+I took the following classes (course description can be found here: [link](https://www.wpi.edu/academics/calendar-courses/course-descriptions))
 
 * Advanced Computational Classes
   *  DS 504 Big Data Analytics (Graduate)
@@ -34,6 +34,15 @@ I took the following classes (course description can be found here: [graduate], 
   *  MA 2051 Ordinary Differential Equation
   *  MA 2621 Probability for Application
   *  MA 540 Probability and Mathematical Statistics I (Graduate, currently taking)
+
+# Presentations
+
+Most of the presentation I made can be found here:
+
+* SCiUS @ Silpakorn University
+ * SC 30253 Biotechnology: Plant nutrients for tissue culture [link](/collections/presentation/biotech_essential_nutrients.pdf)
+ * SC 30253 Biotechnology: Microorganisms and the treatment or cancer [link](/collections/presentation/medical_biotech.pdf)
+ * Physics 5: Nuclear Power Plants [link](/collections/presentation/L14NuclearPP_lq.pdf)
 
 # Contact
 
