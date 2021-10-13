@@ -24,3 +24,5 @@ Ok, it might be hard to take in so let say our sample data is the length (in pag
 | 16    | 0     |
 | 14    | 0     |
 | 28    | 1     |
+
+Let say the "too long" tag is 1 and else is 0. We can see here that if we want to cut out the pages that would *probably* be classified as "too long" it would be around 20 more or less.
