@@ -25,4 +25,4 @@ Ok, it might be hard to take in so let say our sample data is the length (in pag
 | 14    | 0     |
 | 28    | 1     |
 
-Let say the "too long" tag is 1 and else is 0. We can see here that if we want to cut out the pages that would *probably* be classified as "too long" it would be around 20 more or less.
+Let say the "too long" tag is 1 and else is 0. We can see here that if we want to cut out the pages that would *probably* be classified as "too long" it would be around 20 more or less. I know nothing about the data but I can say it with some confident that the probability that the class "else" is being classified to the data point $$x>20$$ is almost zero given this sample point. But how can we decide the *hypothesis* out of this observation?
