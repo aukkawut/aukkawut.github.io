@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # Machine Learning note
 
 This is under construction. Please comeback later. Prerequisite : Probability, Linear Algebra, Calculus, Statistics
