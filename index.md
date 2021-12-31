@@ -6,7 +6,8 @@ My name is Aukkawut Ammartayakun. An 2nd year (sophomore) undergraduate student 
 
 # Research and Publication
 
-Currently none.
+* Accepted Paper
+  * Aswale, A., Lopez, A., Ammartayakun, A. and Pinciroli, C., 2022. Hacking the Colony: On the Disruptive Effect of Misleading Pheromone and How to Defend Against It. In: *International Conference on Autonomous Agents and Multiagent Systems*. Auckland, NZ.
 
 # Classworks
 
@@ -15,13 +16,18 @@ I took the following classes (course description can be found here: [link](https
 * Advanced Computational Classes
   *  DS 504 Big Data Analytics (Graduate)
   *  CS 525 Special Topics: Swarm Intelligence (Graduate)
-  *  DS 595 Special Topics: Optimization for Deep Learning and Machine Learning (Graduate, currently taking)
-  *  DS 595 Special Topics: Natural Language Processing (Graduate, currently taking)
-  *  NEU 503 Computational Neuroscience (Graduate, currently taking)
+  *  DS 595 Special Topics: Optimization for Deep Learning and Machine Learning (Graduate)
+  *  DS 595 Special Topics: Natural Language Processing (Graduate)
+  *  NEU 503 Computational Neuroscience (Graduate)
+  *  CS 525 Special Topics: Logic Foundation of Cyber-Physical Systems (Graduate, currently taking)
 * Data Science Foundation Classes
   *  DS 501 Introduction to Data Science (Graduate)
   *  DS 1010 Data Science I: Introduction to Data Science
+  *  DS 2010 Data Science II: Modeling and Data Analysis
+  *  DS 3010 Data Science III: Computational Data Intelligence (currently taking)
   *  MA 4635 Data Analytics and Statistical Learning
+  *  DS 4433 Big Data Management and Analytics (currently taking)
+  *  OIE 2081 Introduction To Prescriptive Analytics (currently taking)
 * Mathematics and Statistics
   *  MA 1024 Calculus IV
   *  MA 2611 Applied Statistics I
@@ -29,7 +35,8 @@ I took the following classes (course description can be found here: [link](https
   *  MA 2071 Matrices and Linear Algebra I
   *  MA 2051 Ordinary Differential Equation
   *  MA 2621 Probability for Application
-  *  MA 540 Probability and Mathematical Statistics I (Graduate, currently taking)
+  *  MA 540 Probability and Mathematical Statistics I (Graduate)
+  *  MA 541 Probability and Mathematical Statistics II (Graduate, currently taking)
 
 # Presentations
 
