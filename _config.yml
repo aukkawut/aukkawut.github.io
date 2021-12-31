@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: Aukkawut Ammartayakun
+logo: /assets/img/logo.png
 description: General Digital Footprint
 markdown: kramdown
 kramdown:
