@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # How much data do we need for machine learning?
 
 This note is under construction
