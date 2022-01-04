@@ -11,7 +11,7 @@ My name is Aukkawut Ammartayakun. A 2nd year (sophomore) undergraduate student a
 
 # Classworks
 
-I took the following classes (course description can be found here: [link](https://www.wpi.edu/academics/calendar-courses/course-descriptions))
+I took the following classes (course description can be found here: [link](https://www.wpi.edu/academics/calendar-courses/course-descriptions)). You can also request an access to my transcript here: [transcript](https://drive.google.com/file/d/1nckLWDYDTMIdIoBnvJkyXlAu18OHUsLX/view?usp=sharing).
 
 * Advanced Computational Classes
   *  DS 504 Big Data Analytics (Graduate)
