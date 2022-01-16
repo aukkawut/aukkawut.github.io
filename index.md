@@ -36,7 +36,7 @@ I took the following classes (course description can be found here: [link](https
   *  MA 540 Probability and Mathematical Statistics I (Graduate)
   *  MA 541 Probability and Mathematical Statistics II (Graduate, currently taking)
 
-# Presentations
+# Presentations and Projects
 
 Most of the presentation I made can be found here:
 
@@ -44,6 +44,10 @@ Most of the presentation I made can be found here:
   * SC 30253 Biotechnology: Plant nutrients for tissue culture [link](/collections/presentation/biotech_essential_nutrients.pdf)
   * SC 30253 Biotechnology: Microorganisms and the treatment for cancer [link](/collections/presentation/Medical_Biotech%20(2).pdf)
   * Physics 4: Nuclear Power Plants [link](/collections/presentation/L14NuclearPP_lq.pdf)
+* WPI
+  * Seminar talk on Few-shot learning [link](/collections/presentation/ds595_optimization.pdf)
+
+For projects, please refers to my [Github](https://github.com/aukkawut) repo and please note that most of the projects there are exploratory project for me to learn new things. It might or might not contains any value for the society and I hope that some day I can reach the level that I can work on the project that has real value to the society.
 
 # Contact
 
