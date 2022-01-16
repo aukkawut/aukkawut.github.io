@@ -11,7 +11,7 @@ My name is Aukkawut Ammartayakun. A 2nd year (sophomore) undergraduate student a
 
 # Classworks
 
-I took the following classes (course description can be found here: [link](https://www.wpi.edu/academics/calendar-courses/course-descriptions)). You can also request an access to my transcript here: [transcript](https://drive.google.com/file/d/1nckLWDYDTMIdIoBnvJkyXlAu18OHUsLX/view?usp=sharing).
+I took the following classes (course description can be found here: [link](https://www.wpi.edu/academics/calendar-courses/course-descriptions)). You can also request an access to my transcript here: [transcript](https://drive.google.com/file/d/1nckLWDYDTMIdIoBnvJkyXlAu18OHUsLX/view?usp=sharing). Graduate means that class is offered or intended for graduate students (Master/Ph.D.).
 
 * Advanced Computational Classes
   *  DS 504 Big Data Analytics (Graduate)
@@ -19,15 +19,13 @@ I took the following classes (course description can be found here: [link](https
   *  DS 595 Special Topics: Optimization for Deep Learning and Machine Learning (Graduate)
   *  DS 595 Special Topics: Natural Language Processing (Graduate)
   *  NEU 503 Computational Neuroscience (Graduate)
-  *  CS 525 Special Topics: Logic Foundation of Cyber-Physical Systems (Graduate, currently taking)
+  *  DS 595 Special Topics: Reinforcement Learning (Graduate, currently taking)
 * Data Science Foundation Classes
   *  DS 501 Introduction to Data Science (Graduate)
   *  DS 1010 Data Science I: Introduction to Data Science
   *  DS 2010 Data Science II: Modeling and Data Analysis
   *  DS 3010 Data Science III: Computational Data Intelligence (currently taking)
   *  MA 4635 Data Analytics and Statistical Learning
-  *  DS 4433 Big Data Management and Analytics (currently taking)
-  *  OIE 2081 Introduction To Prescriptive Analytics (currently taking)
 * Mathematics and Statistics
   *  MA 1024 Calculus IV
   *  MA 2611 Applied Statistics I
