@@ -38,6 +38,8 @@ I took the following classes (course description can be found here: [link](https
 
 # Presentations and Projects
 
+### Presentation
+
 Most of the presentation I made can be found here:
 
 * [SCiUS](http://scius.sc.su.ac.th/) @ Silpakorn University (High school level, lectured with Thai language)
@@ -47,7 +49,15 @@ Most of the presentation I made can be found here:
 * WPI
   * Seminar talk on Few-shot learning [link](/collections/presentation/ds595_optimization.pdf)
 
+### Projects
+
 For projects, please refers to my [Github](https://github.com/aukkawut) repo and please note that most of the projects there are exploratory project for me to learn new things. It might or might not contains any value for the society and I hope that some day I can reach the level that I can work on the project that has real value to the society.
+
+### Problems/Notes
+
+Example problems I made mainly for high school algebra. Not being used as I am not a teacher but I have a concern that it might be too hard. If possible, please comment me on this or please let me know that you use it on your class as I want to get a feedback on this.
+
+* Practice problems with solutions on Linear and Quadratic functions [link](/collections/GenMath2022/practice_problems/Quadratic.pdf)
 
 # Contact
 
