@@ -7,7 +7,7 @@ My name is Aukkawut Ammartayakun. A 2nd year (sophomore) undergraduate student a
 # Research and Publication
 
 * Conferences
-  * [[Best Paper Award]](https://aamas2022-conference.auckland.ac.nz/awards/best-paper-and-demonstration/) Aswale, A., Lopez, A., Ammartayakun, A. and Pinciroli, C., 2022. Hacking the Colony: On the Disruptive Effect of Misleading Pheromone and How to Defend Against It. In: *21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2022)*. IFAAMAS. In press. [Conf](https://aamas2022-conference.auckland.ac.nz/accepted/papers/) [PDF](https://drive.google.com/file/d/19-eM7qSVQ63yAqscgOil2UC4d9gaumJy/view?usp=sharing) 
+  * [[Best Paper Award]](https://aamas2022-conference.auckland.ac.nz/awards/best-paper-and-demonstration/) Aswale, A., Lopez, A., Ammartayakun, A. and Pinciroli, C., 2022. Hacking the Colony: On the Disruptive Effect of Misleading Pheromone and How to Defend Against It. In: *21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2022)*. IFAAMAS. In press. [Conf](https://aamas2022-conference.auckland.ac.nz/accepted/papers/) [PDF](https://arxiv.org/abs/2202.01808) 
 
 # Classworks
 
