@@ -4,6 +4,14 @@
 
 My name is Aukkawut Ammartayakun. A 2nd year (sophomore) undergraduate student at Worcester Polytechnic Institute. I study Data Science and love to learn new things about DS. I am working on NLP and statistical learning.
 
+# Education
+
+* High School
+  * Science Classroom in University - Affliated School (SCiUS) program at Silpakorn University (2016 - 2019)
+  * Postgraduate at Northfield Mount Hermon (2019 - 2020)
+* College
+  * B.S Data Science at Worcester Polytechnic Institute (2020 - present)
+
 # Research and Publication
 
 * Conferences
