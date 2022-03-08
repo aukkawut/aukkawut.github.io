@@ -19,7 +19,7 @@ My name is Aukkawut Ammartayakun. A 2nd year (sophomore) undergraduate student a
 
 # Classworks
 
-I took the following classes (course description can be found here: [link](https://www.wpi.edu/academics/calendar-courses/course-descriptions)). You can also request an access to my transcript here: [transcript](https://drive.google.com/file/d/1nckLWDYDTMIdIoBnvJkyXlAu18OHUsLX/view?usp=sharing). Graduate means that class is offered or intended for graduate students (Master/Ph.D.).
+I took the following classes (course description can be found here: [link](https://www.wpi.edu/academics/calendar-courses/course-descriptions)). You can also request an access to my transcript here (Asking for the permission first): [transcript](https://drive.google.com/file/d/1nckLWDYDTMIdIoBnvJkyXlAu18OHUsLX/view?usp=sharing). Graduate means that class is offered or intended for graduate students (Master/Ph.D.).
 
 * Advanced Computational Classes
   *  DS 504 Big Data Analytics (Graduate)
