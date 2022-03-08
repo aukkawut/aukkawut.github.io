@@ -69,6 +69,17 @@ Example problems I made mainly for high school algebra. Not being used as I am n
 
 # Contact
 
-College url (nothing much here as I do not have anything to put there): [users.wpi.edu/~aammartayakun](https://users.wpi.edu/~aammartayakun)
+## Statement about contacting me for academic help or asking me for violating academic honesty.
+
+From now on, Facebook and other social networks are reserved to my peers and my friends only! If you don't know me (or I don't know you) and use that method you will not get my reply. *Furthermore, the act of academic dishonesty like asking for help on the exam with Facebook messenger (for example) will be reported to the school for free without any charge.* With the exception of asking it in public place like the public group solely for helping students "understand" the concept (don't get confused between "understand" and "get you the answer"). I will not help you by providing you the answer to you. Instead, I will help you by hint you from the begining of the question and try to guide you to find the answer (I will not promise that I will guide you in an easy way or the way that your teacher intended). If there is the abnormaly on the question (like it was captured from PDF file clearly state that this is the current semester exam or such), *I will not answer or answer in sacrastic way and report it to your school*. Basically, don't contact me via social network if you don't think that I am your friend. Use email or Canvas for other kind of communications (this also includes group assignment).
+
+I also will not help my friends violate their academic honesty. However, the reason why I let my friends contact me that way regarding for asking the academic quesitons because I know my friends well so I know easily that they are asking the exam question or not. I also know their background so I can guide them in the way that will make them understand. Again, if that happens, *I will also report that to their school*. I also understand that my judgement might not be as the particular classes intended, if that is the case and I know it. *I will report myself to related professors/teachers.*
+
+I understand that your professor/teacher might not providing you a good explanation. I feel your pain. I am fine to give you the explanation to your misunderstanding. However, that is also not the reason why you can cheat their exam/homework. Report it to the school! If you group with your friends, you can provide the change in the society. If you are afraid to report it, just hit me an email and I will help you.
+
+
+## Contact Information
+
+College url (Recursive beware!): [users.wpi.edu/~aammartayakun](https://users.wpi.edu/~aammartayakun)
 
 Email: aammartayakun (at) wpi (dot) edu [For academic work only], ammartayakun_a (at) silpakorn (dot) edu [Expect the response to be slower for this email]
