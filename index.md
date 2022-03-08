@@ -80,6 +80,8 @@ I understand that your professor/teacher might not providing you a good explanat
 
 ## Contact Information
 
+Write "Urgent" on your email title if you need to have my immediate response. I will try my best to answer emails in the timely manner.
+ 
 College url (Recursive beware!): [users.wpi.edu/~aammartayakun](https://users.wpi.edu/~aammartayakun)
 
 Email: aammartayakun (at) wpi (dot) edu [For academic work only], ammartayakun_a (at) silpakorn (dot) edu [Expect the response to be slower for this email]
