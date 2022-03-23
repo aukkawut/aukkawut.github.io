@@ -8,4 +8,4 @@ Here is the list of projects that I have done. Most of them are without GUI (in 
 
 ## Quorum Sensing
 
-Let say we have a grid world $$L\times L$$
+Let say we have a grid world of size $$L\times L$$. In each grid, we have 1 agent occupies empty space. The specific agent $$A_{ij}$$ can sense their neighbor signal $$\sigma\left(A_{ij}\right)= A_{ij}*\tilde{\mathbb{I}}$$ where $$*$$ is convolution operator and $$\tilde{\mathbb{I}}$$ as a kernel of matrix of size $$3\times 3$$ for $$8$$ neighbors. 
