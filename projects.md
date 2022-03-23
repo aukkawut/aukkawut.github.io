@@ -4,7 +4,7 @@ layout: post
 
 # Projects
 
-Here is the list of projects that I have done. Most of them are without GUI (in another word, most of them are command-line based). If the project is an assignment or work from the class, I will add "[Class_name]".
+Here is the list of projects that I have done. Most of them are without GUI (in another word, most of them are command-line based). If the project is an assignment or work from the class, I will add `[Class_name]`.
 
 This page is a work in progress. The content here is not well refined and might contains mistakes.
 
