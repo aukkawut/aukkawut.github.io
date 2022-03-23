@@ -8,4 +8,4 @@ Here is the list of projects that I have done. Most of them are without GUI (in 
 
 ## Quorum Sensing
 
-Let say we have a grid world $L\times L$
+Let say we have a grid world $$L\times L$$
