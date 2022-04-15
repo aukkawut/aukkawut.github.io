@@ -1,5 +1,5 @@
 ## Welcome to my website!
-Last update: 3/23/2022
+Last update: 4/15/2022
 
 # About me
 
@@ -57,6 +57,7 @@ Most of the presentation I made can be found here:
   * Physics 4: Nuclear Power Plants [link](/collections/presentation/L14NuclearPP_lq.pdf)
 * WPI
   * Seminar talk on Few-shot learning [link](/collections/presentation/ds595_optimization.pdf)
+  * My part of presentation about Neural encoding [link](/collections/presentation/neural_encoding_2ndHalf.pdf)
 
 ### Projects
 
