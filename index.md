@@ -1,9 +1,9 @@
 ## Welcome to my website!
-Last update: 4/15/2022
+Last update: 5/4/2022
 
 # About me
 
-My name is Aukkawut Ammartayakun. A 2nd year (sophomore) undergraduate student at Worcester Polytechnic Institute. I study Data Science and love to learn new things about DS. I am working on NLP and statistical learning.
+My name is Aukkawut Ammartayakun. A rising junior (3rd year) undergraduate student at Worcester Polytechnic Institute. I study Data Science and love to learn new things about DS. I am working on NLP and statistical learning. I also interested in discussing the philosophical idea behind eastern animations (also known as, anime). Those things are similar to math where we can make our own world (space, per se) with our own rules (axioms, theorems, etc.) and think about how the anime world is constructed and how to break it (like how imaginary number is introduced). That is my goal: to make the model that understand (or explain) the world. 
 
 # Education
 
@@ -28,7 +28,7 @@ I took the following classes (course description can be found here: [link](https
   *  DS 595 Special Topics: Optimization for Deep Learning and Machine Learning (Graduate)
   *  DS 595 Special Topics: Natural Language Processing (Graduate)
   *  NEU 503 Computational Neuroscience (Graduate)
-  *  DS 595 Special Topics: Reinforcement Learning (Graduate, currently taking)
+  *  DS 595 Special Topics: Reinforcement Learning (Graduate)
 * Data Science Foundation Classes
   *  DS 501 Introduction to Data Science (Graduate)
   *  DS 1010 Data Science I: Introduction to Data Science
@@ -43,7 +43,7 @@ I took the following classes (course description can be found here: [link](https
   *  MA 2051 Ordinary Differential Equation
   *  MA 2621 Probability for Application
   *  MA 540 Probability and Mathematical Statistics I (Graduate)
-  *  MA 541 Probability and Mathematical Statistics II (Graduate, currently taking)
+  *  MA 541 Probability and Mathematical Statistics II (Graduate)
 
 # Presentations and Projects
 
@@ -64,6 +64,10 @@ Most of the presentation I made can be found here:
 For projects, please refers to my [Github](https://github.com/aukkawut) repo and please note that most of the projects there are exploratory project for me to learn new things. It might or might not contains any value for the society and I hope that some day I can reach the level that I can work on the project that has real value to the society. One of the example of things I might do is as shown here
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lSp0tFB9zFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Major Qualifying Project (MQP): one of WPI graduation requirement
+
+I was working (with my friend, Palawat) on predicting RNA secondary structure with graph based deep learning approach. We tackling this problem probabilistically (not by minimizing the thermodynamic energy) and found that we actually getting close to compete with the current SOTA model. All of the report and writeups will be available after everything is sorted out.
 
 ### Problems/Notes
 
