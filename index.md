@@ -1,9 +1,11 @@
 ## Welcome to my website!
-Last update: 5/4/2022
+Last update: 5/24/2022
 
 # About me
 
 My name is Aukkawut Ammartayakun. A rising junior (3rd year) undergraduate student at Worcester Polytechnic Institute. I study Data Science and love to learn new things about DS. I am working on NLP and statistical learning. I also interested in discussing the philosophical idea behind eastern animations (also known as, anime). Those things are similar to math where we can make our own world (space, per se) with our own rules (axioms, theorems, etc.) and think about how the anime world is constructed and how to break it (like how imaginary number is introduced). That is my goal: to make the model that understand (or explain) the world. 
+
+I'm planning to do a master degree in Neuroscience at WPI and looking forward to get another master degree in data science at another place.
 
 # Education
 
@@ -20,7 +22,7 @@ My name is Aukkawut Ammartayakun. A rising junior (3rd year) undergraduate stude
 
 # Classworks
 
-I took the following classes (course description can be found here: [link](https://www.wpi.edu/academics/calendar-courses/course-descriptions)). You can also request an access to my transcript here (Asking for the permission first): [transcript](https://drive.google.com/file/d/1nckLWDYDTMIdIoBnvJkyXlAu18OHUsLX/view?usp=sharing). Graduate means that class is offered or intended for graduate students (Master/Ph.D.).
+I took the following classes (course description can be found here: [link](https://www.wpi.edu/academics/calendar-courses/course-descriptions)). You can also request an access to my transcript here (please write the reason on file access request form in Google Drive): [transcript](https://drive.google.com/file/d/1b3ABmwZHVLM2yhVOMYPU3Ey_2JBAIamR/view?usp=sharing). Graduate means that class is offered or intended for graduate students (Master/Ph.D.).
 
 * Advanced Computational Classes
   *  DS 504 Big Data Analytics (Graduate)
@@ -33,7 +35,7 @@ I took the following classes (course description can be found here: [link](https
   *  DS 501 Introduction to Data Science (Graduate)
   *  DS 1010 Data Science I: Introduction to Data Science
   *  DS 2010 Data Science II: Modeling and Data Analysis
-  *  DS 3010 Data Science III: Computational Data Intelligence (currently taking)
+  *  DS 3010 Data Science III: Computational Data Intelligence 
   *  MA 4635 Data Analytics and Statistical Learning
 * Mathematics and Statistics
   *  MA 1024 Calculus IV
@@ -61,9 +63,7 @@ Most of the presentation I made can be found here:
 
 ### Projects
 
-For projects, please refers to my [Github](https://github.com/aukkawut) repo and please note that most of the projects there are exploratory project for me to learn new things. It might or might not contains any value for the society and I hope that some day I can reach the level that I can work on the project that has real value to the society. One of the example of things I might do is as shown here
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lSp0tFB9zFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+For projects, please refers to my [Github](https://github.com/aukkawut) repo and please note that most of the projects there are exploratory project for me to learn new things. It might or might not contains any value for the society and I hope that some day I can reach the level that I can work on the project that has real value to the society.
 
 #### Major Qualifying Project (MQP): one of WPI graduation requirement
 
