@@ -7,6 +7,8 @@ My name is Aukkawut Ammartayakun. A rising junior (3rd year) undergraduate stude
 
 I am also intereted in computer security, especially on the machine learning related one. I competed in some CTFs, but I did it to learn new things. I am cryptography and forensic guy. So, please don't hit me with binary exploitation or reversing questions.
 
+By the way, I rarely reuse my slides (i.e. use my old presentation for new presentation) for other purposes. Thus, most of my presentation are fresh.
+
 # Education
 
 * High School
