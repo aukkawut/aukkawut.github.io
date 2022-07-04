@@ -1,5 +1,5 @@
 ---
-layout: class
+layout: classNLP
 ---
 
 # Natural Language Processing
