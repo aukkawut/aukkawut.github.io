@@ -1,5 +1,5 @@
 ## Welcome to my website!
-Last update: 5/24/2022
+Last update: 7/5/2022
 
 # About me
 
@@ -48,6 +48,7 @@ I took the following classes (course description can be found here: [link](https
   *  MA 2621 Probability for Application
   *  MA 540 Probability and Mathematical Statistics I (Graduate)
   *  MA 541 Probability and Mathematical Statistics II (Graduate)
+  *  MA 549 Analysis of Lifetime Data (Graduate, will audit next Fall)
 
 # Presentations and Projects
 
@@ -61,7 +62,8 @@ Most of the presentation I made can be found here:
   * Physics 4: Nuclear Power Plants [link](/collections/presentation/L14NuclearPP_lq.pdf)
 * WPI
   * Seminar talk on Few-shot learning [link](/collections/presentation/ds595_optimization.pdf)
-  * My part of presentation about Neural encoding [link](/collections/presentation/Neural_encoding_2ndHalf.pdf)
+  * My part of class lecture on Neural encoding [link](/collections/presentation/Neural_encoding_2ndHalf.pdf)
+  * Project proposal on fine tuning transformer model with adversarial training [link](/collections/presentation/ds595_proposal.pdf)
 
 ### Projects
 
@@ -76,6 +78,7 @@ I was working (with my friend, Palawat) on predicting RNA secondary structure wi
 Example problems I made mainly for high school algebra. Not being used as I am not a teacher but I have a concern that it might be too hard. If possible, please comment me on this or please let me know that you use it on your class as I want to get a feedback on this.
 
 * Practice problems with solutions on Linear and Quadratic functions [link](/collections/GenMath2022/practice_problems/Quadratic.pdf)
+* Problem sets (without solutions) on Linear algebra *This is quite hard for high school students* [link](/collections/GenMath2022/practice_problems/LA1_Psets.pdf)
 
 # Contact
 
