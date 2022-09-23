@@ -1,5 +1,4 @@
 ## Welcome to my website!
-Last update: 7/5/2022
 
 # About me
 
@@ -22,6 +21,12 @@ By the way, I rarely reuse my slides (i.e. use my old presentation for new prese
 * Conferences
   * [[Best Paper Award]](https://aamas2022-conference.auckland.ac.nz/awards/best-paper-and-demonstration/) Aswale, A., Lopez, A., Ammartayakun, A. and Pinciroli, C., 2022. Hacking the Colony: On the Disruptive Effect of Misleading Pheromone and How to Defend Against It. In: *21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2022)*. IFAAMAS. In press. [Conf](https://aamas2022-conference.auckland.ac.nz/accepted/papers/) [PDF](https://arxiv.org/abs/2202.01808) 
 
+# Work Experiences
+* 2022
+  * Research Assistant in EREE program at WPI. 
+    * Working on simulating the topoisomerase mechanism in elastic rod and fluid coupled system.
+  * (Currently working) Teaching Assistant in CS 525/DS 595 Reinforcement Learning in Fall 2022 at WPI.
+
 # Classworks
 
 I took the following classes (course description can be found here: [link](https://www.wpi.edu/academics/calendar-courses/course-descriptions)). You can also request an access to my transcript here (please write the reason on file access request form in Google Drive): [transcript](https://drive.google.com/file/d/1b3ABmwZHVLM2yhVOMYPU3Ey_2JBAIamR/view?usp=sharing). Graduate means that class is offered or intended for graduate students (Master/Ph.D.).
@@ -33,22 +38,19 @@ I took the following classes (course description can be found here: [link](https
   *  DS 595 Special Topics: Natural Language Processing (Graduate)
   *  NEU 503 Computational Neuroscience (Graduate)
   *  DS 595 Special Topics: Reinforcement Learning (Graduate)
+  *  OIE 559 Advanced Presciptive Analytics (Graduate)
 * Data Science Foundation Classes
   *  DS 501 Introduction to Data Science (Graduate)
   *  DS 1010 Data Science I: Introduction to Data Science
   *  DS 2010 Data Science II: Modeling and Data Analysis
   *  DS 3010 Data Science III: Computational Data Intelligence 
   *  MA 4635 Data Analytics and Statistical Learning
+  *  CS 534 Artificial Intelligence (Graduate)
+  *  CS 542 Database Management Systems (Graduate
 * Mathematics and Statistics
-  *  MA 1024 Calculus IV
-  *  MA 2611 Applied Statistics I
-  *  MA 2612 Applied Statistics II  
-  *  MA 2071 Matrices and Linear Algebra I
-  *  MA 2051 Ordinary Differential Equation
-  *  MA 2621 Probability for Application
   *  MA 540 Probability and Mathematical Statistics I (Graduate)
   *  MA 541 Probability and Mathematical Statistics II (Graduate)
-  *  MA 549 Analysis of Lifetime Data (Graduate, will audit next Fall)
+  *  MA 549 Analysis of Lifetime Data (Graduate)
 
 # Presentations and Projects
 
