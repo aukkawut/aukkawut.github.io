@@ -35,23 +35,19 @@ I took the following classes (course description can be found here: [link](https
 * Advanced Computational Classes
   *  DS 504 Big Data Analytics (Graduate)
   *  CS 525 Special Topics: Swarm Intelligence (Graduate)
-  *  DS 595 Special Topics: Optimization for Deep Learning and Machine Learning (Graduate)
+  *  DS 595 Special Topics: Optimization for Deep Learning (Graduate)
   *  DS 595 Special Topics: Natural Language Processing (Graduate)
   *  NEU 503 Computational Neuroscience (Graduate)
   *  DS 595 Special Topics: Reinforcement Learning (Graduate)
   *  OIE 559 Advanced Presciptive Analytics (Graduate)
 * Data Science Foundation Classes
   *  DS 501 Introduction to Data Science (Graduate)
-  *  DS 1010 Data Science I: Introduction to Data Science
-  *  DS 2010 Data Science II: Modeling and Data Analysis
-  *  DS 3010 Data Science III: Computational Data Intelligence 
   *  MA 4635 Data Analytics and Statistical Learning
   *  CS 534 Artificial Intelligence (Graduate)
-  *  CS 542 Database Management Systems (Graduate
+  *  CS 542 Database Management Systems (Graduate)
 * Mathematics and Statistics
   *  MA 540 Probability and Mathematical Statistics I (Graduate)
   *  MA 541 Probability and Mathematical Statistics II (Graduate)
-  *  MA 549 Analysis of Lifetime Data (Graduate)
 
 # Presentations and Projects
 
@@ -82,6 +78,10 @@ Example problems I made mainly for high school algebra. Not being used as I am n
 
 * Practice problems with solutions on Linear and Quadratic functions [link](/collections/GenMath2022/practice_problems/Quadratic.pdf)
 * Problem sets (without solutions) on Linear algebra *This is quite hard for high school students* [link](/collections/GenMath2022/practice_problems/LA1_Psets.pdf)
+
+### Learning philosophy
+
+What I value the most is to understand the concept. I don't care whether I will get F or not. What I care is I tried and I understand the concept. I have pushed myself a lot during my freshman and sophomore year to study graduate level courses to deeply understand the concept while making the good foundation for further study when the concept shows up again. It is hard and I risk my GPA for it but I don't care about my GPA. What is worth more is I know the answer of my questions.
 
 # Contact
 
