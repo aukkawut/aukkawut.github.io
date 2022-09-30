@@ -30,6 +30,10 @@ By the way, I rarely reuse my slides (i.e. use my old presentation for new prese
 
 # Classworks
 
+## Learning philosophy
+
+What I value the most is to understand the concept. I don't care whether I will get F or not. What I care is I tried and I understand the concept. I have pushed myself a lot during my freshman and sophomore year to study graduate level courses to deeply understand the concept while making the good foundation for further study when the concept shows up again. It is hard and I risk my GPA for it but I don't care about my GPA. What is worth more is the understanding.
+
 I took the following classes (course description can be found here: [link](https://www.wpi.edu/academics/calendar-courses/course-descriptions)). You can also request an access to my transcript here (please write the reason on file access request form in Google Drive): [transcript](https://drive.google.com/file/d/1b3ABmwZHVLM2yhVOMYPU3Ey_2JBAIamR/view?usp=sharing). Graduate means that class is offered or intended for graduate students (Master/Ph.D.).
 
 * Advanced Computational Classes
@@ -79,9 +83,6 @@ Example problems I made mainly for high school algebra. Not being used as I am n
 * Practice problems with solutions on Linear and Quadratic functions [link](/collections/GenMath2022/practice_problems/Quadratic.pdf)
 * Problem sets (without solutions) on Linear algebra *This is quite hard for high school students* [link](/collections/GenMath2022/practice_problems/LA1_Psets.pdf)
 
-### Learning philosophy
-
-What I value the most is to understand the concept. I don't care whether I will get F or not. What I care is I tried and I understand the concept. I have pushed myself a lot during my freshman and sophomore year to study graduate level courses to deeply understand the concept while making the good foundation for further study when the concept shows up again. It is hard and I risk my GPA for it but I don't care about my GPA. What is worth more is I know the answer of my questions.
 
 # Contact
 
