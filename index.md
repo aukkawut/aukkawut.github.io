@@ -26,7 +26,6 @@ By the way, I rarely reuse my slides (i.e. use my old presentation for new prese
   * Research Assistant in EREE program at WPI. 
     * Working on simulating the topoisomerase mechanism in elastic rod and fluid coupled system.
   * (Currently working) Teaching Assistant in CS 525/DS 595 Reinforcement Learning in Fall 2022 at WPI.
-    * Working as a grader grading quizes and assignment projects.
 
 # Classworks
 
