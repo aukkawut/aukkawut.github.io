@@ -34,21 +34,23 @@ By the way, I rarely reuse my slides (i.e. use my old presentation for new prese
 I took the following classes (course description can be found here: [link](https://www.wpi.edu/academics/calendar-courses/course-descriptions)). You can also request an access to my transcript here (please write the reason on file access request form in Google Drive): [transcript](https://drive.google.com/file/d/1b3ABmwZHVLM2yhVOMYPU3Ey_2JBAIamR/view?usp=sharing). Graduate means that class is offered or intended for graduate students (Master/Ph.D.).
 
 * Advanced Computational Classes
-  *  DS 504 Big Data Analytics (Graduate)
-  *  CS 525 Special Topics: Swarm Intelligence (Graduate)
-  *  DS 595 Special Topics: Optimization for Deep Learning (Graduate)
-  *  DS 595 Special Topics: Natural Language Processing (Graduate)
-  *  NEU 503 Computational Neuroscience (Graduate)
-  *  DS 595 Special Topics: Reinforcement Learning (Graduate)
-  *  OIE 559 Advanced Presciptive Analytics (Graduate)
+  *  DS 504 Big Data Analytics 
+  *  CS 525 Special Topics: Swarm Intelligence
+  *  DS 595 Special Topics: Optimization for Deep Learning
+  *  DS 595 Special Topics: Natural Language Processing 
+  *  NEU 503 Computational Neuroscience 
+  *  DS 595 Special Topics: Reinforcement Learning
+  *  OIE 4430 Advanced Presciptive Analytics
 * Data Science Foundation Classes
-  *  DS 501 Introduction to Data Science (Graduate)
+  *  DS 501 Introduction to Data Science 
   *  MA 4635 Data Analytics and Statistical Learning
-  *  CS 534 Artificial Intelligence (Graduate)
-  *  CS 542 Database Management Systems (Graduate)
+  *  CS 534 Artificial Intelligence 
+  *  CS 542 Database Management Systems
+  *  CS 539 Machine Learning (Currently Taking)
 * Mathematics and Statistics
-  *  MA 540 Probability and Mathematical Statistics I (Graduate)
-  *  MA 541 Probability and Mathematical Statistics II (Graduate)
+  *  MA 540 Probability and Mathematical Statistics I 
+  *  MA 541 Probability and Mathematical Statistics II 
+  *  MA 590 Special Topics: Causal Inference (Currently Taking)
 
 ## Learning philosophy
 
@@ -67,16 +69,19 @@ Most of the presentation/lecture I made can be found here:
 * WPI
   * Seminar talk on Few-shot learning [link](/collections/presentation/ds595_optimization.pdf)
   * My part of the lecture on Neural encoding [link](/collections/presentation/Neural_encoding_2ndHalf.pdf)
-  * Project proposal on fine tuning transformer model with adversarial training [link](/collections/presentation/ds595_proposal.pdf)
 
 ### Projects
 
 For projects, please refers to my [Github](https://github.com/aukkawut) repo and please note that most of the projects there are exploratory project for me to learn new things. It might or might not contains any value for the society and I hope that some day I can reach the level that I can work on the project that has real value to the society.
 
-#### Major Qualifying Project (MQP): one of WPI graduation requirement
-
-I was working (with my friend, Palawat) on predicting RNA secondary structure with graph based deep learning approach. We tackling this problem probabilistically (not by minimizing the thermodynamic energy) and found that we actually getting close to compete with the current SOTA model. All of the report and writeups will be available after everything is sorted out.
-
+Here is the list of some class projects I have done:
+  * Using generative adversarial networks for recovering the information from inverse Conway's game of life
+  * Fine tuning transformer model with adversarial training for news headline generation
+    * Proposal [link](/collections/presentation/ds595_proposal.pdf)
+  * Adversarial news propagation and stochastic programming simplification
+    * Presentation [link](/collections/presentation/oie559_final.pdf)
+    * Github [link](https://github.com/aukkawut/AdversarialInformationCascade)
+  
 ### Problems/Notes
 
 Example problems I made mainly for high school algebra. Not being used as I am not a teacher but I have a concern that it might be too hard. If possible, please comment me on this or please let me know that you use it on your class as I want to get a feedback on this.
