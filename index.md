@@ -2,7 +2,7 @@
 
 # About me
 
-My name is Aukkawut Ammartayakun. A graduate student at Worcester Polytechnic Institute. I study Data Science and love to learn new things about DS. I am working on NLP and statistical learning. I also interested in discussing the philosophical idea behind eastern animations (also known as, anime). Those things are similar to math where we can make our own world (space, per se) with our own rules (axioms, theorems, etc.) and think about how the anime world is constructed and how to break it (like how imaginary number is introduced). That is my goal: to make the model that understand (or explain) the world.
+My name is Aukkawut Ammartayakun. A graduate student at Worcester Polytechnic Institute. I study Data Science and love to learn new things about DS. I am working on adversarial problem and statistical learning. More or less on the security of the intelligence system (both on how to break and how to prevent) I also interested in discussing the philosophical idea behind eastern animations (also known as, anime). Those things are similar to math where we can make our own world (space, per se) with our own rules (axioms, theorems, etc.) and think about how the anime world is constructed and how to break it (like how imaginary number is introduced). That is my goal: to make the model that understand (or explain) the world.
 
 I am also intereted in computer security, especially on the machine learning related one. I competed in some CTFs, but I did it to learn new things. I am cryptography and forensic guy. So, please don't hit me with binary exploitation or reversing questions.
 
