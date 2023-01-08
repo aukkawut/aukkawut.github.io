@@ -31,28 +31,14 @@ By the way, I rarely reuse my slides (i.e. use my old presentation for new prese
 
 # Classworks
 
-I took the following classes (course description can be found here: [link](https://www.wpi.edu/academics/calendar-courses/course-descriptions)). You can also request an access to my transcript here (please write the reason on file access request form in Google Drive): [transcript](https://drive.google.com/file/d/1b3ABmwZHVLM2yhVOMYPU3Ey_2JBAIamR/view?usp=sharing). Graduate means that class is offered or intended for graduate students (Master/Ph.D.).
+You can request an access to my transcript here (please write the reason on file access request form in Google Drive): [transcript](https://drive.google.com/file/d/1b3ABmwZHVLM2yhVOMYPU3Ey_2JBAIamR/view?usp=sharing). Notable classes worth mentioning are listed here (by its description rather than its name).
 
-* Advanced Computational Classes
-  *  DS 504 Big Data Analytics 
-  *  CS 525 Special Topics: Swarm Intelligence
-  *  DS 595 Special Topics: Optimization for Deep Learning
-  *  DS 595 Special Topics: Natural Language Processing 
-  *  NEU 503 Computational Neuroscience 
-  *  DS 595 Special Topics: Reinforcement Learning
-  *  OIE 4430 Advanced Presciptive Analytics
-* Data Science Foundation Classes
-  *  DS 501 Introduction to Data Science 
-  *  MA 4635 Data Analytics and Statistical Learning
-  *  CS 534 Artificial Intelligence 
-  *  CS 542 Database Management Systems
-  *  CS 539 Machine Learning (Currently Taking)
-* Mathematics and Statistics
-  *  MA 540 Probability and Mathematical Statistics I 
-  *  MA 541 Probability and Mathematical Statistics II 
-  *  MA 590 Special Topics: Causal Inference (Currently Taking)
+  *  CS: Swarm Intelligence, Natural Language Processing, Reinforcement Learning, Machine Learning (Currently Taking)
+  *  Math/Stats: Statistical Inferences and Probability, Statistical Learning, Optimization for Deep Learning, Causal Inference (Currently Taking)
+  *  Biology: Computational Neuroscience
+  *  Business: Advanced Presciptive Analytics
 
-## Learning philosophy
+## Learning Philosophy
 
 What I value the most is to understand the concept. I don't care whether I will get F or not. What I care is I tried and I understand the concept. I have pushed myself a lot during my freshman and sophomore year to study graduate level courses to deeply understand the concept while making the good foundation for further study when the concept shows up again. It is hard and I risk my GPA for it but I don't care about my GPA. What is worth more is the understanding.
 
