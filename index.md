@@ -58,9 +58,7 @@ Most of the presentation/lecture I made can be found here:
 
 ### Projects
 
-For projects, please refers to my [Github](https://github.com/aukkawut) repo and please note that most of the projects there are exploratory project for me to learn new things. It might or might not contains any value for the society and I hope that some day I can reach the level that I can work on the project that has real value to the society.
-
-Here is the list of some class projects I have done:
+Here is the list of some class projects I have done (please look into my [github](https://github.com/aukkawut/) for more recent projects):
   * Using generative adversarial networks for recovering the information from inverse Conway's game of life
   * Fine tuning transformer model with adversarial training for news headline generation
     * Proposal [link](/collections/presentation/ds595_proposal.pdf)
@@ -69,8 +67,6 @@ Here is the list of some class projects I have done:
     * Github [link](https://github.com/aukkawut/AdversarialInformationCascade)
   
 ### Problems/Notes
-
-Example problems I made mainly for high school algebra. Not being used as I am not a teacher but I have a concern that it might be too hard. If possible, please comment me on this or please let me know that you use it on your class as I want to get a feedback on this.
 
 * Practice problems with solutions on Linear and Quadratic functions [link](/collections/GenMath2022/practice_problems/Quadratic.pdf)
 * Problem sets (without solutions) on Linear algebra *This is quite hard for high school students* [link](/collections/GenMath2022/practice_problems/LA1_Psets.pdf)
