@@ -12,13 +12,19 @@
     <![endif]-->
     {% include head-custom.html %}
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+        <style>
+  @import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@100&display=swap');
+</style>
+    <style>
+    * {
+      font-family: 'Sarabun', sans-serif;
+    }
+</style>
   </head>
   <body>
-      <section>
 
       {{ content }}
-
-      </section>
+    
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>
