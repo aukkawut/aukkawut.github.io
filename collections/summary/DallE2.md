@@ -29,7 +29,7 @@ DALL-E 2 เป็น Encoder-Decoder Model ที่แบ่งออกเป
 
 แต่เราจะทำอย่างนั้นทำไมในเมื่อเราสามารถ "สอนให้ NN เรียนรู้" การแยกความแตกต่างได้ อ่ะ เราลองทำแบบแรกก่อนแล้วดูว่า NN มันมองตัวเลขเป็นอย่างไง
 
-{% include_relative latent.html max-width="600px" %}
+{% include_relative latent.html max-width="300px" %}
 
 ตาม t-SNE plot ของเวกเตอร์ใน layer สุดท้ายของ NN แบบปกติของเรา เลข 0 จะแทนด้วยสีแดงและเลข 1 จะแทนด้วยสีฟ้า จะเห็นว่าเลขกลุ่มเดียวกันจะอยู่ใกล้กันบน latent space! ทำให้เราสามารถนิยาม euclidean metric หรืออาจจะเป็น cosine similarity, inner product, etc. เพื่อเทียบว่าตัวเลขดังกล่าวเป็นเลขเดียวกันหรือไม่
 
