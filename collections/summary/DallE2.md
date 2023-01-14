@@ -4,7 +4,9 @@ layout: summary
 
 # DALL-E 2
 
-*This summary is summarizing and explaining DALL-E 2 [(https://arxiv.org/abs/2204.06125)](https://arxiv.org/abs/2204.06125) paper in Thai.* Underconstruction
+*This summary is summarizing and explaining DALL-E 2 [(https://arxiv.org/abs/2204.06125)](https://arxiv.org/abs/2204.06125) paper in Thai.* Underconstruction.
+
+Author: Aukkawut Ammartayakun [(users.wpi.edu/~aammartayakun)](https://users.wpi.edu/~aammartayakun)
 
 ## สรุปแบบย่อ
 
@@ -54,7 +56,7 @@ Spoiler Alert: Zero-shot learning ใช้แนวคิดคล้ายๆ 
 
 <img width="1316" alt="Screenshot 2023-01-14 at 1 35 54 PM" src="https://user-images.githubusercontent.com/50354662/212490336-06be64c2-2162-4fd8-b560-b2c4a6c66e8d.png" style="display:block; margin-left:auto; margin-right:auto">
 
-ในตัวอย่างนี้ สมมติว่าเรามีภาพ Liger แต่เราไม่เคยสอนให้มันรู้จัก Liger มาก่อน จากตัวอย่างก่อนหน้า สิ่งที่เราทำได้คือเทียบว่า Liger มันเหมือนกับคำว่าอะไรบ้าง
+ในตัวอย่างนี้ สมมติว่าเรามีภาพ Liger แต่เราไม่เคยสอนให้มันรู้จัก Liger มาก่อน จากตัวอย่างก่อนหน้า สิ่งที่เราทำได้คือเทียบว่า Liger มันเหมือนกับคำว่าอะไรบ้าง แต่ถ้าเรามองภาพกลับไปใน Classification model ปกติ จะเห็นว่า model มันก็จะมีภาพในหัวกลายๆ ว่า เห้ย ภาพนี้ เออมันดูคล้ายกับสิงโต และคล้ายๆ เสืออยู่กลายๆ เห้ย หลักการคล้ายๆ กับการสร้างตัวเลขของเราเลย! 
 
 ## อะไรคือ Diffusion Model
 
