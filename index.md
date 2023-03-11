@@ -23,7 +23,7 @@ By the way, I rarely reuse my slides (i.e. use my old presentation for new prese
   * [[Best Paper Award]](https://aamas2022-conference.auckland.ac.nz/awards/best-paper-and-demonstration/) Aswale, A., Lopez, A., Ammartayakun, A. and Pinciroli, C., 2022. Hacking the Colony: On the Disruptive Effect of Misleading Pheromone and How to Defend Against It. In: *21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2022)*. IFAAMAS. In press. [Conf](https://aamas2022-conference.auckland.ac.nz/accepted/papers/) [PDF](https://arxiv.org/abs/2202.01808) 
 
 # Work (related) Experiences
-* 2008 - 2014 
+* 2008 - 2012
   * Helping in live educational TV broadcast channel, including transition between tapes, controling sounds, playing/recording/handling tapes, etc.
 * 2022
   * Research Assistant in EREE program at WPI. 
