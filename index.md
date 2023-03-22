@@ -8,6 +8,8 @@ I am also intereted in computer security, especially on the machine learning rel
 
 By the way, I rarely reuse my slides (i.e. use my old presentation for new presentation) for other purposes. Thus, most of my presentation are fresh.
 
+If you want to quickly access my CV, please click [here](./Aukkawut_CV.pdf)
+
 # Education
 
 * High School
