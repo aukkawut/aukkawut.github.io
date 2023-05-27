@@ -2,13 +2,11 @@
 
 # About me
 
-My name is Aukkawut Ammartayakun. A undergraduate student at Worcester Polytechnic Institute. I study Data Science and love to learn new things about DS. I am working on adversarial problem and statistical learning. More or less on the security of the intelligence system (both on how to break and how to prevent) I also interested in discussing the philosophical idea behind eastern animations (also known as, anime). Those things are similar to math where we can make our own world (space, per se) with our own rules (axioms, theorems, etc.) and think about how the anime world is constructed and how to break it (like how imaginary number is introduced). That is my goal: to make the model that understand (or explain) the world.
+My name is Aukkawut Ammartayakun. An undergraduate student at Worcester Polytechnic Institute. I study Data Science and love to learn new things about DS. I am working on adversarial problem and statistical learning. More or less on the security of the intelligence system (both on how to break and how to prevent). I am also intereted in computer security, especially on the machine learning related one. I competed in some CTFs, but I did it to learn new things. I am cryptography and forensic guy. So, please don't hit me with binary exploitation or reversing questions.
 
-I am also intereted in computer security, especially on the machine learning related one. I competed in some CTFs, but I did it to learn new things. I am cryptography and forensic guy. So, please don't hit me with binary exploitation or reversing questions.
+By the way, I rarely reuse my slides (i.e. use my old presentation for new presentation) for other purposes. Thus, most of my presentation are fresh. I also love teaching which is, more or less, a part of my learning progress: if you can teach for some extend and make a intuitive slides for some extend, you probably understand the concept for some extend. You might be surprise how many slides (on advanced topics) I have lying around not sharing. I mean, my future job (hopefully, if nothing goes wrong) is professor. I might be able to recycle (not reuse. Fresh, remember?) some slides for my teaching.
 
-By the way, I rarely reuse my slides (i.e. use my old presentation for new presentation) for other purposes. Thus, most of my presentation are fresh.
-
-If you want to quickly access my CV, please click [here](./Aukkawut_CV.pdf)
+If you want to quickly access my CV, please click [here](./Aukkawut_CV.pdf). This might or might not be the most up-to-date information depending on how lazy am I. 
 
 # Education
 
@@ -37,8 +35,8 @@ If you want to quickly access my CV, please click [here](./Aukkawut_CV.pdf)
 
 You can request an access to my transcript here (please write the reason on file access request form in Google Drive): [transcript](https://drive.google.com/file/d/1b3ABmwZHVLM2yhVOMYPU3Ey_2JBAIamR/view?usp=sharing). Notable classes worth mentioning are listed here (by its description rather than its name).
 
-  *  CS: Swarm Intelligence, Natural Language Processing, Reinforcement Learning, Machine Learning (Currently Taking)
-  *  Math/Stats: Statistical Inferences and Probability, Statistical Learning, Optimization for Deep Learning, Causal Inference (Currently Taking)
+  *  CS: Swarm Intelligence, Natural Language Processing, Reinforcement Learning, Machine Learning, Deep Learning (Currently taking)
+  *  Math/Stats: Statistical Inferences and Probability, Statistical Learning, Optimization for Deep Learning, Causal Inference, Bayesian Statistics (Currently taking), Stochastic Processes (Currently taking), Econometric Modeling (Currently taking)
   *  Biology: Computational Neuroscience
   *  Business: Advanced Presciptive Analytics
 
