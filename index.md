@@ -36,7 +36,7 @@ If you want to quickly access my CV, please click [here](./Aukkawut_CV.pdf). Thi
 You can request an access to my transcript here (please write the reason on file access request form in Google Drive): [transcript](https://drive.google.com/file/d/1b3ABmwZHVLM2yhVOMYPU3Ey_2JBAIamR/view?usp=sharing). Notable classes worth mentioning are listed here (by its description rather than its name).
 
   *  CS: Swarm Intelligence, Natural Language Processing, Reinforcement Learning, Machine Learning, Deep Learning (Currently taking)
-  *  Math/Stats: Statistical Inferences and Probability, Statistical Learning, Optimization for Deep Learning, Causal Inference, Bayesian Statistics (Currently taking), Stochastic Processes (Currently taking), Econometric Modeling (Currently taking)
+  *  Math/Stats: Statistical Inferences and Probability, Statistical Learning, Optimization for Deep Learning, Causal Inference, Multivariate Analysis (Currently taking), Time Series Analysis (Currently taking), Stochastic Processes (Currently taking), Econometric Modeling (Currently taking)
   *  Biology: Computational Neuroscience
   *  Business: Advanced Presciptive Analytics
 
@@ -67,6 +67,10 @@ Here is the list of some class projects I have done (please look into my [github
   * Adversarial news propagation and stochastic programming simplification
     * Presentation [link](/collections/presentation/oie559_final.pdf)
     * Github [link](https://github.com/aukkawut/AdversarialInformationCascade)
+  * I hate machine learning classification, so I use Hypothesis testing for classifying MNIST data.
+    * Github [link](https://github.com/aukkawut/IHateMLClassification)
+  * Silly Dimensional Reduction Algorithm
+    * Github [link](https://github.com/aukkawut/SillyDimensionalReduction) 
   
 ### Problems/Notes
 
