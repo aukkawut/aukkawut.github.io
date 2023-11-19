@@ -2,9 +2,7 @@
 
 # About me
 
-My name is Aukkawut Ammartayakun. An undergraduate student at Worcester Polytechnic Institute. I study Data Science and love to learn new things about DS. I am working on adversarial problem and statistical learning. More or less on the security of the intelligence system (both on how to break and how to prevent). I am also intereted in computer security, especially on the machine learning related one. I competed in some CTFs, but I did it to learn new things. I am cryptography and forensic guy. So, please don't hit me with binary exploitation or reversing questions.
-
-By the way, I rarely reuse my slides (i.e. use my old presentation for new presentation) for other purposes. Thus, most of my presentation are fresh. I also love teaching which is, more or less, a part of my learning progress: if you can teach for some extend and make a intuitive slides for some extend, you probably understand the concept for some extend. You might be surprise how many slides (on advanced topics) I have lying around not sharing. I mean, my future job (hopefully, if nothing goes wrong) is professor. I might be able to recycle (not reuse. Fresh, remember?) some slides for my teaching.
+My name is Aukkawut Ammartayakun. An undergraduate student at Worcester Polytechnic Institute. I study Data Science and love to learn new things about DS. My current research interest is on the **robustness of intelligence system**. This includes but not limited to: Adversarial Attack, Robust U-statistic, Multiagent Systems.  
 
 If you want to quickly access my CV, please click [here](./Aukkawut_CV.pdf). This might or might not be the most up-to-date information depending on how lazy am I. 
 
