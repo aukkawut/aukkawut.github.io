@@ -18,7 +18,8 @@ If you want to quickly access my CV, please click [here](./Aukkawut_CV.pdf). Thi
 # Research and Publication
 
 * Conferences
-  * [[Best Paper Award]](https://aamas2022-conference.auckland.ac.nz/awards/best-paper-and-demonstration/) Aswale, A., Lopez, A., Ammartayakun, A. and Pinciroli, C., 2022. Hacking the Colony: On the Disruptive Effect of Misleading Pheromone and How to Defend Against It. In: *21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2022)*. IFAAMAS. In press. [Conf](https://aamas2022-conference.auckland.ac.nz/accepted/papers/) [PDF](https://arxiv.org/abs/2202.01808) 
+  * [[Best Paper Award]](https://aamas2022-conference.auckland.ac.nz/awards/best-paper-and-demonstration/) Aswale, A., Lopez, A., Ammartayakun, A. and Pinciroli, C., 2022. Hacking the Colony: On the Disruptive Effect of Misleading Pheromone and How to Defend Against It. In: *21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2022)*. IFAAMAS. In press. [Conf](https://aamas2022-conference.auckland.ac.nz/accepted/papers/) [PDF](https://arxiv.org/abs/2202.01808)
+ 
 
 # Work (related) Experiences
 * 2008 - 2012
@@ -58,7 +59,7 @@ Most of the presentation/lecture I made can be found here:
 
 ### Projects
 
-Here is the list of some class projects I have done (please look into my [github](https://github.com/aukkawut/) for more recent projects):
+Here is the list of some class/graduation projects I have done (please look into my [github](https://github.com/aukkawut/) for more recent projects):
   * Using generative adversarial networks for recovering the information from inverse Conway's game of life
   * Fine tuning transformer model with adversarial training for news headline generation
     * Proposal [link](/collections/presentation/ds595_proposal.pdf)
@@ -68,7 +69,9 @@ Here is the list of some class projects I have done (please look into my [github
   * I hate machine learning classification, so I use Hypothesis testing for classifying MNIST data.
     * Github [link](https://github.com/aukkawut/IHateMLClassification)
   * Silly Dimensional Reduction Algorithm
-    * Github [link](https://github.com/aukkawut/SillyDimensionalReduction) 
+    * Github [link](https://github.com/aukkawut/SillyDimensionalReduction)
+  * Exploring RNA Secondary Structure Prediction using Graph Convolutional Neural Networks (Graduation project)
+  * Westborough High School Mental Health Predictive Analysis (Graduation project)
   
 ### Problems/Notes
 
