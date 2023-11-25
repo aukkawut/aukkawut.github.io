@@ -2,9 +2,9 @@
 
 # About me
 
-My name is Aukkawut Ammartayakun. An undergraduate student at Worcester Polytechnic Institute. I study Data Science and love to learn new things about DS. My current research interest is on the **robustness of intelligence system**. This includes but not limited to: Adversarial Attack, Robust U-statistic, Multiagent Systems.  
+My name is Aukkawut Ammartayakun. An undergraduate student at Worcester Polytechnic Institute. I study Data Science and love to learn new things about DS. My current research interest is on the **robustness of intelligence system**. This includes but not limited to: Adversarial Attack, Robust U-statistic, Multiagent Systems. Also, I am interested in the **medicine and biological applications from mathematics and statistics**.
 
-If you want to quickly access my CV, please click [here](./Aukkawut_CV.pdf). This might or might not be the most up-to-date information depending on how lazy am I. 
+If you want to quickly access my CV, please click [here](./Aukkawut_CV.pdf).
 
 # Education
 
