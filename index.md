@@ -17,8 +17,13 @@ If you want to quickly access my CV, please click [here](./Aukkawut_CV.pdf).
 
 # Research and Publication
 
+If the pre-print is not available, please email to me for the request of the pre-print and I will be more than happy to send that to you.
+
 * Conferences
-  * [[Best Paper Award]](https://aamas2022-conference.auckland.ac.nz/awards/best-paper-and-demonstration/) Aswale, A., Lopez, A., Ammartayakun, A. and Pinciroli, C., 2022. Hacking the Colony: On the Disruptive Effect of Misleading Pheromone and How to Defend Against It. In: *21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2022)*. IFAAMAS. In press. [Conf](https://aamas2022-conference.auckland.ac.nz/accepted/papers/) [PDF](https://arxiv.org/abs/2202.01808)
+  * [[Best Paper Award]](https://aamas2022-conference.auckland.ac.nz/awards/best-paper-and-demonstration/) Aswale, A., Lopez, A., Ammartayakun, A. and Pinciroli, C., 2022. Hacking the Colony: On the Disruptive Effect of Misleading Pheromone and How to Defend Against It. In: *21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2022)*. IFAAMAS. [Conf](https://aamas2022-conference.auckland.ac.nz/accepted/papers/) [PDF](https://arxiv.org/abs/2202.01808)
+ 
+* Journal
+  * [Submitted, waiting for the review] Busaranuvong, P., Ammartayakun, A., Korkin, D., and Khosravi-Far, R., 2023. Graph Convolutional Network for Predicting Secondary Structure of RNA. In: *Nature Machine Intelligence*
  
 
 # Work (related) Experiences
@@ -65,11 +70,11 @@ Here is the list of some class/graduation projects I have done (please look into
     * Proposal [link](/collections/presentation/ds595_proposal.pdf)
   * Adversarial news propagation and stochastic programming simplification
     * Presentation [link](/collections/presentation/oie559_final.pdf)
-    * Github [link](https://github.com/aukkawut/AdversarialInformationCascade)
+    * Website [link](https://aukkawut.github.io/AdversarialInformationCascade)
   * I hate machine learning classification, so I use Hypothesis testing for classifying MNIST data.
-    * Github [link](https://github.com/aukkawut/IHateMLClassification)
+    * Website [link](https://aukkawut.github.io/IHateMLClassification)
   * Silly Dimensional Reduction Algorithm
-    * Github [link](https://github.com/aukkawut/SillyDimensionalReduction)
+    * Website [link](https://aukkawut.info/Mom-We-have-Autoencoder-at-home)
   * Exploring RNA Secondary Structure Prediction using Graph Convolutional Neural Networks (Graduation project)
   * Westborough High School Mental Health Predictive Analysis (Graduation project)
   
