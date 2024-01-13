@@ -37,12 +37,12 @@ If the pre-print is not available, please email to me for the request of the pre
 
 # Classworks
 
-You can request an access to my transcript here (please write the reason on file access request form in Google Drive): [transcript](https://drive.google.com/file/d/1b3ABmwZHVLM2yhVOMYPU3Ey_2JBAIamR/view?usp=sharing). Notable classes worth mentioning are listed here (by its description rather than its name).
+You can request an access to my transcript here (please write the reason on file access request form in Google Drive): [transcript](https://drive.google.com/file/d/1HLFSz6BkxydRzphoqz3IPqIW4ZUicMhC/view?usp=sharing). Notable classes worth mentioning are listed here (by its description rather than its name).
 
-  *  CS: Swarm Intelligence, Natural Language Processing, Reinforcement Learning, Machine Learning, Deep Learning (Currently taking)
-  *  Math/Stats: Statistical Inferences and Probability, Statistical Learning, Optimization for Deep Learning, Causal Inference, Multivariate Analysis (Currently taking), Time Series Analysis (Currently taking), Stochastic Processes (Currently taking), Econometric Modeling (Currently taking)
-  *  Biology: Computational Neuroscience
-  *  Business: Advanced Presciptive Analytics
+  *  CS: Swarm Intelligence, Natural Language Processing, Reinforcement Learning, Machine Learning, Database Management Systems
+  *  Math/Stats: Statistical Inferences and Probability, Statistical Learning, Optimization for Deep Learning, Causal Inference, Multivariate Analysis, Bayesian Statistics (Currently taking), Stochastic Processes (Currently taking)
+  *  Biomedical related: Computational Neuroscience, Mental Health
+  *  Business: Advanced Presciptive Analytics, Machine Learning in Business
 
 ## Learning Philosophy
 
