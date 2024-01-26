@@ -93,3 +93,7 @@ Write "Urgent" on your email title if you need to have my immediate response. I 
 College url (Recursive beware!): [users.wpi.edu/~aammartayakun](https://users.wpi.edu/~aammartayakun)
 
 Email: aammartayakun (at) wpi (dot) edu [For academic work only], ammartayakun_a (at) silpakorn (dot) edu [Expect the response to be slower for this email]
+
+## Availability
+
+As of Spring 2024 (January to May), my schedule does not permit me to participate in any meeting (including new group project if not already arranged). I appreciate your understanding in this matter. Should you need to discuss urgent or important issues, please feel free to reach out to me via email. I will make every effort to accommodate a meeting, if possible, within my existing commitments. Please note that while I endeavor to respond promptly, there may be some delay due to my current workload.
