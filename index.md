@@ -23,7 +23,7 @@ If the pre-print is not available, please email to me for the request of the pre
   * [[Best Paper Award]](https://aamas2022-conference.auckland.ac.nz/awards/best-paper-and-demonstration/) Aswale, A., Lopez, A., Ammartayakun, A. and Pinciroli, C., 2022. Hacking the Colony: On the Disruptive Effect of Misleading Pheromone and How to Defend Against It. In: *21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2022)*. IFAAMAS. [Conf](https://aamas2022-conference.auckland.ac.nz/accepted/papers/) [PDF](https://arxiv.org/abs/2202.01808)
  
 * Journal
-  * [Submitted, waiting for the review] Busaranuvong, P., Ammartayakun, A., Korkin, D., and Khosravi-Far, R., 2023. Graph Convolutional Network for Predicting Secondary Structure of RNA. In: *Nature Communications*
+  * [Submitted, waiting for the review] Busaranuvong, P., Ammartayakun, A., Korkin, D., and Khosravi-Far, R., 2023. Graph Convolutional Network for Predicting Secondary Structure of RNA. In: *Nature Communications* [preprint](https://doi.org/10.21203/rs.3.rs-3798842/v1)
  
 
 # Work (related) Experiences
