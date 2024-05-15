@@ -12,7 +12,7 @@ If you want to access my CV quickly, please click [here](./Aukkawut_CV.pdf).
   * Science Classroom in University - Affiliated School (SCiUS) program at Silpakorn University (2016 - 2019)
   * Postgraduate at Northfield Mount Hermon (2019 - 2020)
 * College
-  * B.S Data Science at Worcester Polytechnic Institute (2020 - 2024)
+  * B.S Data Science at Worcester Polytechnic Institute (2020 - 2024) [With distinction]
   * M.S Data Science at Worcester Polytechnic Institute (2023 - 2024)
   * Ph.D. Data Science & Engineering at The University of Tennessee, Knoxville (2024 - Present)
 
@@ -38,10 +38,10 @@ If the pre-print is not available, please email me to request one, and I will be
 
 # Classworks
 
-You can request access to my transcript here (please write the reason on the file access request form in Google Drive): [transcript](https://drive.google.com/file/d/1HLFSz6BkxydRzphoqz3IPqIW4ZUicMhC/view?usp=sharing). Notable classes worth mentioning are listed here (by their description rather than their names).
+You can request access to my transcript here (please write the reason on the file access request form in Google Drive): [transcript](https://drive.google.com/file/d/1QFtNj0P_saYPMKOpirSKF-Y73Utt-lak/view?usp=sharing). Notable classes worth mentioning are listed here (by their description rather than their names).
 
   *  CS: Swarm Intelligence, Natural Language Processing, Reinforcement Learning, Machine Learning, Database Management Systems
-  *  Math/Stats: Statistical Inferences and Probability, Statistical Learning, Optimization for Deep Learning, Causal Inference, Multivariate Analysis, Bayesian Statistics (Currently taking), Stochastic Processes (Currently taking)
+  *  Math/Stats: Statistical Inferences and Probability, Statistical Learning, Optimization for Deep Learning, Causal Inference, Multivariate Analysis, Bayesian Statistics, Stochastic Processes
   *  Biomedical related: Computational Neuroscience, Mental Health
   *  Business: Advanced Prescriptive Analytics, Machine Learning in Business
 
@@ -93,4 +93,4 @@ Write "Urgent" on your email title if you need to have my immediate response. I 
  
 College URL (Recursive beware!): [users.wpi.edu/~aammartayakun](https://users.wpi.edu/~aammartayakun)
 
-Email: aammartayakun (at) wpi (dot) edu [For academic work only], ammartayakun_a (at) silpakorn (dot) edu [Expect the response to be slower for this email]
+Email: aammartayakun (at) wpi (dot) edu [For academic work only], ammartayakun_a (at) su (dot) ac (dot) th [Expect the response to be slower for this email]
