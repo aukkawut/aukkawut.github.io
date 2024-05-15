@@ -83,6 +83,7 @@ Here is the list of some class/graduation projects I have done (please look into
 
 * Practice problems with solutions on Linear and Quadratic functions [link](/collections/GenMath2022/practice_problems/Quadratic.pdf)
 * Problem sets (without solutions) on Linear algebra *This is quite hard for high school students* [link](/collections/GenMath2022/practice_problems/LA1_Psets.pdf)
+  * There are multiple typos on these problem sets. I edited it during my lecture but not on this pdf file. Use with your own risk.   
 
 
 # Contact
