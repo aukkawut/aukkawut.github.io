@@ -83,7 +83,9 @@ Here is the list of some class/graduation projects I have done (please look into
 
 * Practice problems with solutions on Linear and Quadratic functions [link](/collections/GenMath2022/practice_problems/Quadratic.pdf)
 * Problem sets (without solutions) on Linear algebra *This is quite hard for high school students* [link](/collections/GenMath2022/practice_problems/LA1_Psets.pdf)
-  * There are multiple typos on these problem sets. I edited it during my lecture but not on this pdf file. Use with your own risk.   
+  * There are multiple typos on these problem sets. I edited it during my lecture but not on this pdf file. Use with your own risk.
+* Test example for Introduction to AI [link](/collections/summer2024/Intro2AI/Test1_Search_and_Optimization.pdf)
+  * I covered a lot of things during my lecture. However, I do not expect some measure-theoretic proof or very very formal proof out of introductory level class. So, please don't be so alarm about this.
 
 
 # Contact
