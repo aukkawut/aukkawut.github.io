@@ -88,10 +88,25 @@ Here is the list of some class/graduation projects I have done (please look into
 
 # Contact
 
+## Updates
+
+Recently, I am dealing with my mental health issue. Specifically on my burn-out. I will not communicate about academic things during Summer 2024 per suggestion from psychiatrist and counselors even if it is urgent. I will, however, contact back as I am recovered. Please understand that while I want to work with you, I still want to maintain my mental health. It was really severe. 
+
+Some of the communication might be made if it is not a big project or work related like asking question about math or quick question about reinforcement learning. 
+
 ## Contact Information
 
 Write "Urgent" on your email title if you need to have my immediate response. I will try my best to answer emails in a timely manner.
  
 College URL (Recursive beware!): [users.wpi.edu/~aammartayakun](https://users.wpi.edu/~aammartayakun)
 
-Email: aammartayakun (at) wpi (dot) edu [For academic work only], ammartayakun_a (at) su (dot) ac (dot) th [Expect the response to be slower for this email]
+Email:
+
+* aammarta[at]vols.utk.edu (current one)
+* aammartayakun[at]wpi.edu (will be migrated within 2025)
+* ammartayakun_a[at]su.ac.th (not currently in-use but you can try)
+
+Personal email (like gmail) and social networks (like Facebook) will be reserved to only closed friends and colleagues.
+
+Please note that the message sent to my personal account like Line or Messenger with regard to work will be rejected. For students, I do have office hour and you can ask for the additional meeting using the **email**.
+For colleagues, please understand that I might not be able to meet or communicate during the time I am out of the office.
