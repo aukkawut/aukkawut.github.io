@@ -2,9 +2,9 @@
 
 # About me
 
-My name is Aukkawut Ammartayakun. I am an undergraduate student at Worcester Polytechnic Institute. I study Data Science and love to learn new things about DS. My current research interest is in the **robustness of intelligence systems**. This includes but is not limited to, Adversarial Attacks, Robust U-statistics, and multi-agent systems. I am also interested in the **medical and biological applications of mathematics and statistics**.
+My name is Aukkawut Ammartayakun. I am a Ph.D student at the University of Tennessee, Knoxville. I study data science and love learning new things about DS. My current research interest is in the **robustness of intelligence systems**. This includes but is not limited to, adversarial attacks and multi-agent systems. I am also interested in the **medical and biological applications of mathematics and statistics**.
 
-If you want to access my CV quickly, please click [here](./Aukkawut_CV.pdf).
+If you want to access my CV, please click [here](./Aukkawut_CV.pdf).
 
 # Education
 
@@ -18,13 +18,13 @@ If you want to access my CV quickly, please click [here](./Aukkawut_CV.pdf).
 
 # Research and Publication
 
-If the pre-print is not available, please email me to request one, and I will be more than happy to send it to you.
+If the pre-print is unavailable, please email me to request one, and I will gladly send it to you.
 
 * Conferences
   * [[Best Paper Award]](https://aamas2022-conference.auckland.ac.nz/awards/best-paper-and-demonstration/) Aswale, A., Lopez, A., Ammartayakun, A. and Pinciroli, C., 2022. Hacking the Colony: On the Disruptive Effect of Misleading Pheromone and How to Defend Against It. In: *21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2022)*. IFAAMAS. [Conf](https://aamas2022-conference.auckland.ac.nz/accepted/papers/) [PDF](https://arxiv.org/abs/2202.01808)
  
 * Preprint
-  * [Submitted, waiting for the review] Busaranuvong, P., Ammartayakun, A., Korkin, D., and Khosravi-Far, R., 2023. Graph Convolutional Network for Predicting Secondary Structure of RNA [preprint](https://doi.org/10.21203/rs.3.rs-3798842/v1)
+  * Busaranuvong, P., Ammartayakun, A., Korkin, D., and Khosravi-Far, R., 2023. Graph Convolutional Network for Predicting Secondary Structure of RNA [preprint](https://doi.org/10.21203/rs.3.rs-3798842/v1)
  
 
 # Work (related) Experiences
@@ -38,16 +38,16 @@ If the pre-print is not available, please email me to request one, and I will be
 
 # Classworks
 
-You can request access to my transcript here (please write the reason on the file access request form in Google Drive): [transcript](https://drive.google.com/file/d/1QFtNj0P_saYPMKOpirSKF-Y73Utt-lak/view?usp=sharing). Notable classes worth mentioning are listed here (by their description rather than their names).
+You can request access to my transcript here (please write the reason on the file access request form in Google Drive): [transcript](https://drive.google.com/file/d/1QFtNj0P_saYPMKOpirSKF-Y73Utt-lak/view?usp=sharing). Notable classes are listed here (by their description rather than names).
 
   *  CS: Swarm Intelligence, Natural Language Processing, Reinforcement Learning, Machine Learning, Database Management Systems
   *  Math/Stats: Statistical Inferences and Probability, Statistical Learning, Optimization for Deep Learning, Causal Inference, Multivariate Analysis, Bayesian Statistics, Stochastic Processes
-  *  Biomedical related: Computational Neuroscience, Mental Health
-  *  Business: Advanced Prescriptive Analytics, Machine Learning in Business
+  *  Biomedical related: Computational Neuroscience, Clinical Psychology and Mental Health
+  *  Business: Prescriptive Analytics, Machine Learning in Business, Operation Research
 
 ## Learning Philosophy
 
-What I value the most is to understand the concept. I don't care whether I will get an F or not. What I care about is I tried, and I understood the concept. I have pushed myself a lot during my freshman and sophomore years to study graduate-level courses to deeply understand the concept while making a good foundation for further study when the concept shows up again. It is hard, and I risk my GPA for it, but I don't care about my GPA. What is worth more is the understanding.
+What I value the most is to understand the concept. I don't care whether I will get an F or not. What I care about is I tried, and I understood the concept. I pushed myself a lot during my freshman and sophomore years to study graduate-level courses to deeply understand the concept while making a good foundation for further study when the concept shows up again. It is hard, and I risk my GPA for it, but I don't care about my GPA. What is worth more is the understanding.
 
 # Presentations and Projects
 
@@ -78,15 +78,6 @@ Here is the list of some class/graduation projects I have done (please look into
     * Website [link](https://aukkawut.info/Mom-We-have-Autoencoder-at-home)
   * Exploring RNA Secondary Structure Prediction using Graph Convolutional Neural Networks (Graduation project)
   * Westborough High School Mental Health Predictive Analysis (Graduation project)
-  
-### Problems/Notes
-
-* Practice problems with solutions on Linear and Quadratic functions [link](/collections/GenMath2022/practice_problems/Quadratic.pdf)
-* Problem sets (without solutions) on Linear algebra *This is quite hard for high school students* [link](/collections/GenMath2022/practice_problems/LA1_Psets.pdf)
-  * There are multiple typos on these problem sets. I edited it during my lecture but not on this pdf file. Use with your own risk.
-* Test example for Introduction to AI [link](/collections/summer2024/Intro2AI/Test1_Search_and_Optimization.pdf)
-  * I covered a lot of things during my lecture. However, I do not expect some measure-theoretic proof or very very formal proof out of introductory level class. So, please don't be so alarm about this.
-
 
 # Contact
 
@@ -111,4 +102,5 @@ Email:
 Personal email (like gmail) and social networks (like Facebook) will be reserved to only closed friends and colleagues.
 
 Please note that the message sent to my personal account like Line or Messenger with regard to work will be rejected. For students, I do have office hour and you can ask for the additional meeting using the **email**.
+
 For colleagues, please understand that I might not be able to meet or communicate during the time I am out of the office.
