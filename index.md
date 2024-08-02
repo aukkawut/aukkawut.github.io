@@ -90,8 +90,6 @@ Some of the communication might be made if it is not a big project or work relat
 ## Contact Information
 
 Write "Urgent" on your email title if you need to have my immediate response. I will try my best to answer emails in a timely manner.
- 
-College URL (Recursive beware!): [users.wpi.edu/~aammartayakun](https://users.wpi.edu/~aammartayakun)
 
 Email:
 
