@@ -16,7 +16,7 @@ If you want to access my CV, please click [here](./Aukkawut_CV.pdf).
   * M.S Data Science at Worcester Polytechnic Institute (2023 - 2024)
   * Ph.D. Data Science & Engineering at The University of Tennessee, Knoxville (2024 - Present)
 
-# Research and Publication
+# Research and Publications
 
 If the pre-print is unavailable, please email me to request one, and I will gladly send it to you.
 
@@ -36,7 +36,7 @@ If the pre-print is unavailable, please email me to request one, and I will glad
   * Teaching Assistant in CS 525/DS 595 Reinforcement Learning in Fall 2022 at WPI.
     * Helping with technical issues, grading quizzes and assignments, hosting office hours, and answering RL-related questions
 
-# Classworks
+# Classwork
 
 You can request access to my transcript here (please write the reason on the file access request form in Google Drive): [transcript](https://drive.google.com/file/d/1QFtNj0P_saYPMKOpirSKF-Y73Utt-lak/view?usp=sharing). Notable classes are listed here (by their description rather than names).
 
